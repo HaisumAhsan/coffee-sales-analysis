@@ -70,30 +70,34 @@ focused marketing and stock optimization.
 
 **CatBoost** is chosen as the final model due to high accuracy and lowest error.
 
-**CatBoost** is chosen as the final model due to high accuracy and
-lowest error.
+
 
 \-\--
 
-**🔮 Forecasting (Holt--Winters Model)**  - Forecasted 30-day revenue
-for March 2025  - Captures seasonality and trend patterns accurately  -
-Expected daily revenue: \*\*350--600 units\*\*  - Revenue remains stable
-with regular fluctuations
+**🔮 Forecasting (Holt--Winters Model)**  
+
+- Forecasted 30-day revenue for March 2025
+
+Captures seasonality and trend patterns accurately  -
+
+Expected daily revenue: \*\*350--600 units\*\*  - 
+
+Revenue remains stable with regular fluctuations
 
 \-\--
 
-\ **🧠 Strategic Recommendations**
+ **🧠 Strategic Recommendations**
 
-\ Product Strategy  - Focus marketing on top 3 high-revenue coffee
+Product Strategy  - Focus marketing on top 3 high-revenue coffee
 types  - Promote premium coffees (high margin)
 
-\ Operations  - Increase staff & inventory during morning/lunch peaks
+Operations  - Increase staff & inventory during morning/lunch peaks
  - Benchmark top-performing store locations
 
-\ Forecasting  - Use CatBoost for ongoing sales prediction  - Use
+Forecasting  - Use CatBoost for ongoing sales prediction  - Use
 Holt--Winters for seasonal demand planning
 
-\ Business Insights  - Stable revenue indicates mature customer base
+Business Insights  - Stable revenue indicates mature customer base
  - Data supports robust inventory and staffing decisions
 
 \-\--
