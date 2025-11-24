@@ -47,9 +47,11 @@ focused marketing and stock optimization.
 **📈 Visual Insights**
 
 **Product Performance**  - Bar/Count plots of top-selling coffee types
+
 **Revenue by coffee category** - Highest revenue-generating varieties
 
 **Time-Based Trends**  - Hourly sales spikes (morning & lunch peaks)  -
+
 **Daily/Monthly revenue patterns** - Store-wise sales comparison
 
 **Correlation** - Heatmap showing strong correlation between
