@@ -12,7 +12,7 @@ for business decision-making.
 **📦 Dataset 
 Source:** Kaggle -- Coffee Sales Dataset  -
 
-**Link:**https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset 
+**Link:** https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset 
 
 **Records:** 3,547
 
@@ -21,14 +21,14 @@ Source:** Kaggle -- Coffee Sales Dataset  -
 **Quality:** No missing or duplicate values
 
 
-🎯 Project Objectives  - Analyze coffee shop sales trends  -
+**🎯 Project Objectives**  - Analyze coffee shop sales trends  -
 Identify top-selling products  - Understand hourly, daily, monthly
 revenue patterns  - Compare store performance  - Build ML models to
 forecast revenue  - Create a BI dashboard for business insights
 
 \-\--
 
-\## 📊 Exploratory Data Analysis (EDA)
+\## **📊 Exploratory Data Analysis (EDA)**
 
 \### ✔ Data Overview  - Checked column names, datatypes, and record
 count  - Validated dataset had \*\*no missing or null entries\*\*  -
