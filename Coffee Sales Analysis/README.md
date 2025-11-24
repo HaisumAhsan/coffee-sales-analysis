@@ -1,4 +1,4 @@
-**☕ Coffee Sales Analysis 
+**☕ Coffee Sales Analysis **
 
 Data Visualization \| Exploratory Data Analysis \| Predictive Analytics**
 
