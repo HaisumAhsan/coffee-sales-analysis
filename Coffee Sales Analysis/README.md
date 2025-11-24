@@ -7,19 +7,17 @@ Dataset\*\* from Kaggle. The project includes data cleaning, EDA, visual
 insights, machine learning models, forecasting, and a Power BI dashboard
 for business decision-making.
 
-\-\--
 
-\## 📦 Dataset 
-- \*\*Source:\*\* Kaggle -- Coffee Sales Dataset  -
-\*\*Link:\*\*
-https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset  -
-\*\*Records:\*\* 3,547  - \*\*Features:\*\* 11 (Date, Time, Coffee Type,
-Money, Weekday, Month, etc.)  - \*\*Quality:\*\* No missing or duplicate
-values
 
-\-\--
+📦 Dataset 
+Source: Kaggle -- Coffee Sales Dataset  -
+Link:https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset 
+Records: 3,547
+Features: 11 (Date, Time, Coffee Type,Money, Weekday, Month, etc.)
+Quality: No missing or duplicate values
 
-\## 🎯 Project Objectives  - Analyze coffee shop sales trends  -
+
+🎯 Project Objectives  - Analyze coffee shop sales trends  -
 Identify top-selling products  - Understand hourly, daily, monthly
 revenue patterns  - Compare store performance  - Build ML models to
 forecast revenue  - Create a BI dashboard for business insights
