@@ -95,13 +95,13 @@ types
 
 Promote premium coffees (high margin)
 
-**Operations**  -
+**Operations**  
 
 Increase staff & inventory during morning/lunch peaks
 
 Benchmark top-performing store locations
 
-**Forecasting **  
+**Forecasting**  
 
 Use CatBoost for ongoing sales prediction   
 
