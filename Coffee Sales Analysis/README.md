@@ -11,9 +11,13 @@ for business decision-making.
 
 📦 Dataset 
 Source: Kaggle -- Coffee Sales Dataset  -
+
 Link:https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset 
+
 Records: 3,547
+
 Features: 11 (Date, Time, Coffee Type,Money, Weekday, Month, etc.)
+
 Quality: No missing or duplicate values
 
 
