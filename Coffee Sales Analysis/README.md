@@ -54,8 +54,7 @@ focused marketing and stock optimization.
 
 **Daily/Monthly revenue patterns** - Store-wise sales comparison
 
-**Correlation** - Heatmap showing strong correlation between
-\*\*quantity sold\*\* and \*\*revenue\*\*
+**Correlation** - Heatmap showing strong correlation between quantity sold and revenue
 
 \-\--
 
