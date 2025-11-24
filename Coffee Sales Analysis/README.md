@@ -76,11 +76,11 @@ focused marketing and stock optimization.
 
 **🔮 Forecasting (Holt--Winters Model)**  
 
-- Forecasted 30-day revenue for March 2025
+Forecasted 30-day revenue for March 2025
 
 Captures seasonality and trend patterns accurately  -
 
-Expected daily revenue: \*\*350--600 units\*\*  - 
+Expected daily revenue: **350--600 units** - 
 
 Revenue remains stable with regular fluctuations
 
@@ -88,17 +88,30 @@ Revenue remains stable with regular fluctuations
 
  **🧠 Strategic Recommendations**
 
-Product Strategy  - Focus marketing on top 3 high-revenue coffee
-types  - Promote premium coffees (high margin)
+**Product Strategy**
 
-Operations  - Increase staff & inventory during morning/lunch peaks
- - Benchmark top-performing store locations
+Focus marketing on top 3 high-revenue coffee
+types  
 
-Forecasting  - Use CatBoost for ongoing sales prediction  - Use
-Holt--Winters for seasonal demand planning
+Promote premium coffees (high margin)
 
-Business Insights  - Stable revenue indicates mature customer base
- - Data supports robust inventory and staffing decisions
+**Operations**  -
+
+Increase staff & inventory during morning/lunch peaks
+
+Benchmark top-performing store locations
+
+**Forecasting **  
+
+Use CatBoost for ongoing sales prediction   
+
+Use Holt--Winters for seasonal demand planning
+
+**Business Insights**  
+
+Stable revenue indicates mature customer base
+
+Data supports robust inventory and staffing decisions
 
 \-\--
 
