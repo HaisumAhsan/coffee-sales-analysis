@@ -1,6 +1,6 @@
-☕ Coffee Sales Analysis 
+**☕ Coffee Sales Analysis 
 
-Data Visualization \| Exploratory Data Analysis \| Predictive Analytics
+Data Visualization \| Exploratory Data Analysis \| Predictive Analytics**
 
 A complete end-to-end data analytics project using the \*\*Coffee Sales
 Dataset\*\* from Kaggle. The project includes data cleaning, EDA, visual
@@ -9,16 +9,16 @@ for business decision-making.
 
 
 
-📦 Dataset 
-Source: Kaggle -- Coffee Sales Dataset  -
+**📦 Dataset 
+Source:** Kaggle -- Coffee Sales Dataset  -
 
-Link:https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset 
+**Link:**https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset 
 
-Records: 3,547
+**Records:** 3,547
 
-Features: 11 (Date, Time, Coffee Type,Money, Weekday, Month, etc.)
+**Features:** 11 (Date, Time, Coffee Type,Money, Weekday, Month, etc.)
 
-Quality: No missing or duplicate values
+**Quality:** No missing or duplicate values
 
 
 🎯 Project Objectives  - Analyze coffee shop sales trends  -
