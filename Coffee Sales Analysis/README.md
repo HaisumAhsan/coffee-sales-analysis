@@ -58,29 +58,31 @@ focused marketing and stock optimization.
 
 \-\--
 
-\## 🤖 Machine Learning Models
+**🤖 Machine Learning Models**
 
-\| Model \| MAE ↓ \| RMSE ↓ \| R² ↑ \| Notes \|
-\|\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--\|\-\-\-\-\-\--\|\-\-\-\-\-\-\--\|\-\-\-\-\-\--\|\-\-\-\-\-\--\|
-\| Linear Regression \| 3.19 \| 4.09 \| 0.27 \| Baseline model;
-underfits \| \| Random Forest \| 0.26 \| 0.69 \| 0.979 \| Excellent
-performance \| \| XGBoost \| 0.34 \| 0.79 \| 0.973 \| Strong but
-slightly lower \| \| CatBoost \| 0.33 \| 0.66 \| 0.981 \| \*\*Best model
-overall\*\* \|
 
-\*\*CatBoost\*\* is chosen as the final model due to high accuracy and
+| Model            | MAE ↓ | RMSE ↓ | R² ↑  | Notes |
+|------------------|-------|--------|-------|-------|
+| Linear Regression | 3.19 | 4.09 | 0.27 | Baseline model; underfits |
+| Random Forest     | 0.26 | 0.69 | 0.979 | Excellent performance |
+| XGBoost           | 0.34 | 0.79 | 0.973 | Strong but slightly lower |
+| CatBoost          | 0.33 | 0.66 | 0.981 | **Best model overall** |
+
+**CatBoost** is chosen as the final model due to high accuracy and lowest error.
+
+**CatBoost** is chosen as the final model due to high accuracy and
 lowest error.
 
 \-\--
 
-\ 🔮 Forecasting (Holt--Winters Model)  - Forecasted 30-day revenue
+**🔮 Forecasting (Holt--Winters Model)**  - Forecasted 30-day revenue
 for March 2025  - Captures seasonality and trend patterns accurately  -
 Expected daily revenue: \*\*350--600 units\*\*  - Revenue remains stable
 with regular fluctuations
 
 \-\--
 
-\ 🧠 Strategic Recommendations
+\ **🧠 Strategic Recommendations**
 
 \ Product Strategy  - Focus marketing on top 3 high-revenue coffee
 types  - Promote premium coffees (high margin)
