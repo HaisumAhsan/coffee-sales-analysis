@@ -28,31 +28,31 @@ forecast revenue  - Create a BI dashboard for business insights
 
 \-\--
 
-\## **📊 Exploratory Data Analysis (EDA)**
+\ **📊 Exploratory Data Analysis (EDA)**
 
-\### ✔ Data Overview  - Checked column names, datatypes, and record
+\ ✔ Data Overview  - Checked column names, datatypes, and record
 count  - Validated dataset had \*\*no missing or null entries\*\*  -
 Converted and extracted features from the date column
 
-\### ✔ Sales Behavior  - Sales distribution by coffee type  - Daily,
+\ ✔ Sales Behavior  - Sales distribution by coffee type  - Daily,
 weekly & monthly sales trends  - Quantity and revenue relationships  -
 Customer buying patterns
 
-\### ✔ Key Insight Some coffee types consistently dominate both
+\ ✔ Key Insight Some coffee types consistently dominate both
 \*\*sales count\*\* and \*\*total revenue\*\*, making them ideal for
 focused marketing and stock optimization.
 
 \-\--
 
-\## 📈 Visual Insights
+\ **📈 Visual Insights**
 
-\### Product Performance  - Bar/Count plots of top-selling coffee types
+\ Product Performance  - Bar/Count plots of top-selling coffee types
  - Revenue by coffee category  - Highest revenue-generating varieties
 
-\### Time-Based Trends  - Hourly sales spikes (morning & lunch peaks)  -
+\ Time-Based Trends  - Hourly sales spikes (morning & lunch peaks)  -
 Daily/Monthly revenue patterns  - Store-wise sales comparison
 
-\### Correlation  - Heatmap showing strong correlation between
+\ Correlation  - Heatmap showing strong correlation between
 \*\*quantity sold\*\* and \*\*revenue\*\*
 
 \-\--
@@ -72,27 +72,27 @@ lowest error.
 
 \-\--
 
-\## 🔮 Forecasting (Holt--Winters Model)  - Forecasted 30-day revenue
+\ 🔮 Forecasting (Holt--Winters Model)  - Forecasted 30-day revenue
 for March 2025  - Captures seasonality and trend patterns accurately  -
 Expected daily revenue: \*\*350--600 units\*\*  - Revenue remains stable
 with regular fluctuations
 
 \-\--
 
-\## 🧠 Strategic Recommendations
+\ 🧠 Strategic Recommendations
 
-\### Product Strategy  - Focus marketing on top 3 high-revenue coffee
+\ Product Strategy  - Focus marketing on top 3 high-revenue coffee
 types  - Promote premium coffees (high margin)
 
-\### Operations  - Increase staff & inventory during morning/lunch peaks
+\ Operations  - Increase staff & inventory during morning/lunch peaks
  - Benchmark top-performing store locations
 
-\### Forecasting  - Use CatBoost for ongoing sales prediction  - Use
+\ Forecasting  - Use CatBoost for ongoing sales prediction  - Use
 Holt--Winters for seasonal demand planning
 
-\### Business Insights  - Stable revenue indicates mature customer base
+\ Business Insights  - Stable revenue indicates mature customer base
  - Data supports robust inventory and staffing decisions
 
 \-\--
 
-\## 📁 Project Structure
+\ 📁 Project Structure
